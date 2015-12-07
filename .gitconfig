@@ -1,0 +1,11 @@
+[user]
+	email = hamster.of.dev@gmail.com
+	name = Hans Meyer
+[push]
+	default = simple
+[help]
+	autocorrect = true
+[log]
+	date = local
+[pack]
+	threads = 0

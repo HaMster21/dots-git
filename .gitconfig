@@ -4,7 +4,7 @@
 [push]
 	default = simple
 [help]
-	autocorrect = true
+	autocorrect = -1
 [log]
 	date = local
 [pack]

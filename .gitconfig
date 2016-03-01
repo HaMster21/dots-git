@@ -1,6 +1,9 @@
 [user]
 	email = hamster.of.dev@gmail.com
 	name = Hans Meyer
+[core]
+	autocrlf = true
+	safecrlf = true
 [push]
 	default = simple
 [help]
